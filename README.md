@@ -1,5 +1,4 @@
-# ci3-hmvc
-Codeigniter 3 with HMVC
+# Codeigniter 3 with HMVC
 
 This is the combination between 3 CodeIgniter and HMVC Modular Extension (created by "wiredesignz").
 
